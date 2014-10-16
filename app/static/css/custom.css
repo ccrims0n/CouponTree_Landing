@@ -1,0 +1,20 @@
+.jumbotron{
+  width:100%;
+  overflow:hidden;
+  position:relative;
+  padding-bottom:0px
+}
+
+.img-block{
+  padding-top:25px;
+  padding-bottom:0px
+}
+
+.content-block{
+  position:absolute;
+  top:73%;
+  width:100%;
+  text-align:center;
+  background:#fff;
+  box-shadow:0 -1px 6px rgba(0,0,0,0.3)
+} 
